@@ -1,0 +1,4 @@
+For the part 1 and part 2 
+you need to put all the information about local and remote ip address as well as local and remote port number 
+and then to start the peer-peer chat you need to press the (TEST SERVER) button to intiate the local server and the you can press (Send/Send all button) to send data to whoever you want
+for the part 2  to update the online server for the client you need to press (LOGIN) for the same data again 
